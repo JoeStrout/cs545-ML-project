@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{CHUCKSCG}
+Chuck Anderson.
+\newblock The scaled conjugate gradient algorithm.
+\newblock
+  http://www.cs.colostate.edu/~anderson/cs545/index.html/doku.php?id=notes:neuralnetscg,
+  2012.
+
+\bibitem{ROSSCHAT}
+J.~Ross Beveridge.
+\newblock Personal communication, 12 2012.
+
+\bibitem{MATRIXPLUGIN}
+Robert Delaney.
+\newblock Matrix plugin.
+\newblock http://delaneyrm.com/MatrixPlugin.html, 2012.
+
+\bibitem{AIFORGAMES}
+Ian Millington and John Funge.
+\newblock {\em Artificial Intelligence for Games (2nd Ed.)}.
+\newblock Elsevier, 2009.
+
+\bibitem{Strout2003}
+Joe Strout.
+\newblock Path-finding: For independent developers.
+\newblock {\em REALbasic Developer}, 1:15--20, 2003.
+
+\end{thebibliography}

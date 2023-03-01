@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}AI Architecture}{3}
+\contentsline {section}{\numberline {3}Implementation}{4}
+\contentsline {subsection}{\numberline {3.1}Path Finding}{4}
+\contentsline {subsection}{\numberline {3.2}Movement Prediction}{5}
+\contentsline {subsection}{\numberline {3.3}Cell State Prediction: Lookup Table}{8}
+\contentsline {subsection}{\numberline {3.4}Cell State Prediction: Decision Tree}{9}
+\contentsline {subsection}{\numberline {3.5}Cell State Prediction: Neural Network}{16}
+\contentsline {section}{\numberline {4}Experimental Results}{25}
+\contentsline {subsection}{\numberline {4.1}Level 1}{26}
+\contentsline {subsection}{\numberline {4.2}Level 2}{26}
+\contentsline {subsection}{\numberline {4.3}Level 3}{27}
+\contentsline {subsection}{\numberline {4.4}Level 4}{28}
+\contentsline {subsection}{\numberline {4.5}Level 5}{28}
+\contentsline {subsection}{\numberline {4.6}Level 6}{29}
+\contentsline {subsection}{\numberline {4.7}Level 7}{29}
+\contentsline {subsection}{\numberline {4.8}Level 8}{30}
+\contentsline {subsection}{\numberline {4.9}Total Scores}{30}
+\contentsline {section}{\numberline {5}Discussion}{30}
