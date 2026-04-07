@@ -9,8 +9,11 @@ This paper investigates the use of machine learning to improve non-player charac
 [Read the final report here.](report/CS545-Strout2012.pdf)
 
 ![Sample map from the project](report/figSampleMap.png)
-_Sample map from the game world.  The player avatar is just northwest of the wooden bridge.  The red button has already been pressed, causing the bridge to appear, providing a path to the green gem._
+
+_Sample level from the game world.  The player avatar is just northwest of the wooden bridge.  The yellow key will enable the agent to unlock the door and reach the blue gem.  Pressing the red button will cause another bridge to appear over the water, enabling the agent to reach the yellow gem.  Each level has unique rules and dynamics._
+
 
 ![Agent architecture](report/figArchitecture.png)
-_Agent architecture._
+
+_Agent architecture, showing major classes and modules.  Each agent has at most one cell state predictor._
 
